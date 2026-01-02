@@ -98,29 +98,6 @@ const musaifuddinAnsari = {
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Statistics
-
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SYED-SAQUEEB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SYED-SAQUEEB&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYED-SAQUEEB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=SYED-SAQUEEB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contribution Stats" />
-</div>
-
-<!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SYED-SAQUEEB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SYED-SAQUEEB&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
-
----
 
 <div align="center">
 
