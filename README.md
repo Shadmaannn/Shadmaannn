@@ -1,200 +1,277 @@
 <div align="center">
-  
-  <!-- Animated Welcome Section -->
-  <svg width="500" height="100" viewBox="0 0 500 100">
-    <defs>
-      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#38BDF8">
-          <animate attributeName="stop-color" values="#38BDF8;#7E22CE;#FB7185;#38BDF8" dur="4s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#7E22CE">
-          <animate attributeName="stop-color" values="#7E22CE;#FB7185;#38BDF8;#7E22CE" dur="4s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="50%" text-anchor="middle" dominant-baseline="middle" font-family="Fira Code, monospace" font-size="26" fill="url(#gradient)">
-      Hi 👋 I'm SHADMAN
-    </text>
-  </svg>
-  
-  <!-- Animated Typing Effect -->
-  <div style="margin-top: -20px;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI%2FUX+Enthusiast;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-    </a>
-  </div>
-  
-  <!-- Animated Social Links -->
-  <div style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/shaikh-fasiuddin-324524341/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn" style="animation: pulse 2s infinite;">
-    </a>
-    <a href="https://github.com/Fasishaikh75">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub" style="animation: pulse 2s infinite; animation-delay: 0.5s;">
-    </a>
-    <a href="mailto:shaikhfasiuddin02@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email" style="animation: pulse 2s infinite; animation-delay: 1s;">
-    </a>
-  </div>
+
+<!-- Animated Header with 3D Effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SYED%20SAQUEEB%20AMJAD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=51" />
+
+<!-- Dynamic Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;Mastering+MERN+Stack+%7C+Cloud+Technologies;Open+to+Collaborations+%26+Opportunities" alt="Typing SVG" /></a>
+
+<!-- Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Development-00D9FF?style=for-the-badge&labelColor=000000&logo=react&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Work-00FF00?style=for-the-badge&labelColor=000000&logo=checkmarx&logoColor=00FF00" />
+  <img src="https://img.shields.io/badge/Experience-MERN%20Stack-FF6B6B?style=for-the-badge&labelColor=000000&logo=mongodb&logoColor=FF6B6B" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaikh-fasiuddin-324524341/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SYED-SAQUEEB">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:shaikhfasiuddin02@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://syedsaqueeb.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=SYED-SAQUEEB&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+
 </div>
 
-<br>
+---
 
-<!-- Animated Divider -->
-<div align="center">
-  <svg width="100%" height="20">
-    <line x1="0" y1="10" x2="100%" y2="10" stroke="#38BDF8" stroke-width="2">
-      <animate attributeName="x2" from="0" to="100%" dur="2s" fill="freeze" />
-    </line>
-  </svg>
-</div>
-
-<br>
-
-## 🚀 Technical Expertise
-
-<!-- Animated Tech Stack -->
 <div align="center">
 
-*Frontend:*  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3)
-
-*Tools & Platforms:*  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=00C7B7)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
+## 🚀 About Me
 
 </div>
 
-<br>
+```javascript
+const syedSaqueeb = {
+    name: "Syed Saqueeb Amjad",
+    role: "Software Developer Intern",
+    company: "Wainfo Technologies",
+    location: "India 🇮🇳",
+    
+    currentFocus: "Building enterprise-level MERN Stack applications",
+    
+    techStack: {
+        frontend: ["React.js", "Redux", "JavaScript", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+        backend: ["Node.js", "Express.js", "RESTful APIs"],
+        databases: ["MongoDB", "Mongoose", "PostgreSQL"],
+        tools: ["Git", "GitHub", "VS Code", "Postman", "Netlify", "Vercel"]
+    },
+    
+    learning: ["TypeScript", "Next.js", "AWS", "Docker", "Testing"],
+    
+    openTo: ["Full-Time Opportunities", "Freelance Projects", "Collaborations"]
+};
+```
 
-## 💼 Featured Projects
+---
 
-<!-- Project Cards with Animation -->
 <div align="center">
 
-### 🏥 Genuine Hospital Website
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://genuinehospital.netlify.app/)
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYED-SAQUEEB)
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white; text-align: left;">
-• <strong>Tech Stack:</strong> HTML5, Tailwind CSS, Bootstrap, JavaScript<br>
-• <strong>Features:</strong> Responsive Design, Mobile-Friendly UI, Optimized Layouts, Smooth Interactions
-</div>
-
-### 🏠 Almannan Decor Website
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://almannandecor.netlify.app/)
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYED-SAQUEEB)
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white; text-align: left;">
-• <strong>Tech Stack:</strong> HTML5, Tailwind CSS, Bootstrap, JavaScript<br>
-• <strong>Features:</strong> Fully Responsive, User-Friendly Interface, Semantic HTML, Dynamic Features
-</div>
-
-### 🎓 AIT Academy Website
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://aitaurangabad.com/)
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYED-SAQUEEB)
-
-<div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white; text-align: left;">
-• <strong>Tech Stack:</strong> HTML5, Tailwind CSS, Bootstrap, JavaScript<br>
-• <strong>Features:</strong> Live Project, Fully Responsive, Interactive Interface, Modern Web Standards
-</div>
-
-### 🌸 A Perfume Website
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://aperfume.netlify.app/)
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SYED-SAQUEEB)
-
-<div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white; text-align: left;">
-• <strong>Tech Stack:</strong> HTML5, Tailwind CSS, Bootstrap, JavaScript<br>
-• <strong>Features:</strong> Elegant Design, Brand-Aligned Interface, Responsive Layout, Under Development
-</div>
+## 💻 Tech Stack
 
 </div>
 
-<br>
-
-## 📈 GitHub Stats
-
-<!-- Animated GitHub Stats -->
-<div align="center">
-  
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SYED-SAQUEEB&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" style="border-radius: 10px; animation: fadeIn 2s;" />
-  
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYED-SAQUEEB&layout=compact&langs_count=7&theme=radical&hide_border=true" alt="Top Languages" style="border-radius: 10px; animation: fadeIn 2s; animation-delay: 0.5s;" />
-  
-  <!-- GitHub Streak Stats -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SYED-SAQUEEB&theme=radical&hide_border=true" alt="GitHub Streak" style="border-radius: 10px; animation: fadeIn 2s; animation-delay: 1s;" />
-
-</div>
-
-<br>
-
-## 🎯 Currently Learning & Future Goals
-
-<!-- Animated Learning Section -->
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933)
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,html,css,tailwind,bootstrap,sass&perline=8" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&perline=8" />
+</p>
+
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,netlify,vercel,figma&perline=8" />
+</p>
+
+### Currently Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript,nextjs,aws,docker&perline=8" />
+</p>
 
 </div>
 
-<br>
+---
 
-<!-- Animated Footer -->
 <div align="center">
-  
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=SYED-SAQUEEB&label=Profile%20Views&color=0e75b6&style=flat" alt="syedsaqueeb" />
-  
-  <!-- Animated SVG Footer -->
-  <svg width="100%" height="50" viewBox="0 0 500 50">
-    <defs>
-      <linearGradient id="footerGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#38BDF8" />
-        <stop offset="50%" stop-color="#7E22CE" />
-        <stop offset="100%" stop-color="#FB7185" />
-      </linearGradient>
-    </defs>
-    <path d="M0,40 Q250,10 500,40 L500,50 L0,50 Z" fill="url(#footerGradient)" opacity="0.8">
-      <animate attributeName="opacity" values="0.5;0.8;0.5" dur="3s" repeatCount="indefinite" />
-    </path>
-    <text x="50%" y="35" text-anchor="middle" font-family="Fira Code, monospace" font-size="12" fill="white">
-      Thanks for visiting! Let's connect and build something amazing together.
-    </text>
-  </svg>
+
+## 📊 GitHub Statistics
 
 </div>
 
-<!-- CSS Animations -->
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.05); }
-    100% { transform: scale(1); }
-  }
-  
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  
-  /* Hover effects for project cards */
-  div[style*="background: linear-gradient"] {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-  }
-  
-  div[style*="background: linear-gradient"]:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-  }
-</style>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SYED-SAQUEEB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SYED-SAQUEEB&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SYED-SAQUEEB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=SYED-SAQUEEB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Contribution Stats" />
+</div>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SYED-SAQUEEB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Contribution Graph" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=SYED-SAQUEEB&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
+
+---
+
+<div align="center">
+
+## 🎯 Featured Projects
+
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏥 Genuine Hospital</h3>
+      <p><b>Tech:</b> HTML5, Tailwind CSS, Bootstrap, JavaScript</p>
+      <p>Responsive healthcare website with modern UI/UX design</p>
+      <a href="https://genuinehospital.netlify.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+      <a href="https://github.com/SYED-SAQUEEB">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🏠 Almannan Decor</h3>
+      <p><b>Tech:</b> HTML5, Tailwind CSS, Bootstrap, JavaScript</p>
+      <p>Elegant e-commerce platform for home decor products</p>
+      <a href="https://almannandecor.netlify.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+      <a href="https://github.com/SYED-SAQUEEB">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎓 AIT Academy</h3>
+      <p><b>Tech:</b> HTML5, Tailwind CSS, Bootstrap, JavaScript</p>
+      <p>Educational platform with interactive features</p>
+      <a href="https://aitaurangabad.com/">
+        <img src="https://img.shields.io/badge/Live_Site-00FF00?style=for-the-badge&logo=vercel&logoColor=white" />
+      </a>
+      <a href="https://github.com/SYED-SAQUEEB">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌸 A Perfume</h3>
+      <p><b>Tech:</b> HTML5, Tailwind CSS, Bootstrap, JavaScript</p>
+      <p>Luxury perfume showcase with elegant design</p>
+      <a href="https://aperfume.netlify.app/">
+        <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
+      </a>
+      <a href="https://github.com/SYED-SAQUEEB">
+        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 Learning Progress
+
+</div>
+
+<table align="center">
+  <tr>
+    <th>Technology</th>
+    <th>Progress</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>🔷 TypeScript</td>
+    <td><img src="https://progress-bar.dev/80/?scale=100&width=200&color=00D9FF" /></td>
+    <td>🔥 Active</td>
+  </tr>
+  <tr>
+    <td>⚡ Next.js</td>
+    <td><img src="https://progress-bar.dev/60/?scale=100&width=200&color=00D9FF" /></td>
+    <td>🔥 Active</td>
+  </tr>
+  <tr>
+    <td>☁️ AWS</td>
+    <td><img src="https://progress-bar.dev/30/?scale=100&width=200&color=00D9FF" /></td>
+    <td>📚 Learning</td>
+  </tr>
+  <tr>
+    <td>🐳 Docker</td>
+    <td><img src="https://progress-bar.dev/40/?scale=100&width=200&color=00D9FF" /></td>
+    <td>📚 Learning</td>
+  </tr>
+  <tr>
+    <td>🧪 Testing</td>
+    <td><img src="https://progress-bar.dev/70/?scale=100&width=200&color=00D9FF" /></td>
+    <td>🔥 Active</td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📫 Connect With Me
+
+</div>
+
+<div align="center">
+
+<p>I'm always excited to connect with fellow developers and tech enthusiasts! Feel free to reach out for collaborations, projects, or just a chat about technology.</p>
+
+<a href="https://www.linkedin.com/in/shaikh-fasiuddin-324524341/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:shaikhfasiuddin02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/SYED-SAQUEEB">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://syedsaqueeb.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
+
+<br><br>
+
+### 🔥 Open for Opportunities
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Time-Available-00FF00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Freelance-Open-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaborations-Welcome-FF6B6B?style=for-the-badge" />
+</p>
+
+**📧 Email:** shaikhfasiuddin02@gmail.com  
+**📍 Location:** India (Open to Remote Work)  
+**🌐 Portfolio:** [syedsaqueeb.netlify.app](https://syedsaqueeb.netlify.app)
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70" />
+
+<p>
+  <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/By-Syed%20Saqueeb-00D9FF?style=for-the-badge" />
+</p>
+
+**💡 "Code is poetry written in logic"**
+
+</div>
