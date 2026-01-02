@@ -99,64 +99,7 @@ const musaifuddinAnsari = {
 ---
 
 
-<div align="center">
 
-## 🎯 Featured Projects
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏥 Genuine Hospital</h3>
-      <p><b>Tech:</b> HTML5, Tailwind CSS, Bootstrap, JavaScript</p>
-      <p>Responsive healthcare website with modern UI/UX design</p>
-      <a href="https://genuinehospital.netlify.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=netlify&logoColor=white" />
-      </a>
-      <a href="https://github.com/SYED-SAQUEEB">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🏠 Almannan Decor</h3>
-      <p><b>Tech:</b> HTML5, Tailwind CSS, Bootstrap, JavaScript</p>
-      <p>Elegant e-commerce platform for home decor products</p>
-      <a href="https://almannandecor.netlify.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=for-the-badge&logo=netlify&logoColor=white" />
-      </a>
-      <a href="https://github.com/SYED-SAQUEEB">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>🎓 AIT Academy</h3>
-      <p><b>Tech:</b> HTML5, Tailwind CSS, Bootstrap, JavaScript</p>
-      <p>Educational platform with interactive features</p>
-      <a href="https://aitaurangabad.com/">
-        <img src="https://img.shields.io/badge/Live_Site-00FF00?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <a href="https://github.com/SYED-SAQUEEB">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <h3>🌸 A Perfume</h3>
-      <p><b>Tech:</b> HTML5, Tailwind CSS, Bootstrap, JavaScript</p>
-      <p>Luxury perfume showcase with elegant design</p>
-      <a href="https://aperfume.netlify.app/">
-        <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
-      </a>
-      <a href="https://github.com/SYED-SAQUEEB">
-        <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 <div align="center">
 
