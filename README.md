@@ -115,7 +115,7 @@ const musaifuddinAnsari = {
 </div>
 
 <!-- Activity Graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SYED-SAQUEEB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SYED-SAQUEEB&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=SYED-SAQUEEB&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="Trophies" />
@@ -257,7 +257,6 @@ const musaifuddinAnsari = {
 
 **📧 Email:** musaifuddin.ansari@gmail.com  
 **📍 Location:** India (Open to Remote Work)  
-
 
 </div>
 
