@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header with 3D Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=SYED%20SAQUEEB%20AMJAD&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=51" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MUSAIFUDDIN%20ANSARI&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Cloud%20Enthusiast&descSize=16&descAlignY=51" />
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;Mastering+MERN+Stack+%7C+Cloud+Technologies;Open+to+Collaborations+%26+Opportunities" alt="Typing SVG" /></a>
@@ -43,8 +43,8 @@
 </div>
 
 ```javascript
-const musaifuddin = {
-    name: "musaifuddin ansari",
+const musaifuddinAnsari = {
+    name: "Musaifuddin Ansari",
     role: "Software Developer Intern",
     company: "Wainfo Technologies",
     location: "India 🇮🇳",
@@ -269,7 +269,7 @@ const musaifuddin = {
 
 <p>
   <img src="https://img.shields.io/badge/Made%20with-❤️-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/By-Syed%20Saqueeb-00D9FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/By-Musaifuddin%20Ansari-00D9FF?style=for-the-badge" />
 </p>
 
 **💡 "Code is poetry written in logic"**
