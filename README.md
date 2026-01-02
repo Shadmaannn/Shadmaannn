@@ -43,8 +43,8 @@
 </div>
 
 ```javascript
-const syedSaqueeb = {
-    name: "Syed Saqueeb Amjad",
+const musaifuddin = {
+    name: "musaifuddin ansari",
     role: "Software Developer Intern",
     company: "Wainfo Technologies",
     location: "India 🇮🇳",
@@ -255,9 +255,9 @@ const syedSaqueeb = {
   <img src="https://img.shields.io/badge/Collaborations-Welcome-FF6B6B?style=for-the-badge" />
 </p>
 
-**📧 Email:** shaikhfasiuddin02@gmail.com  
+**📧 Email:** musaifuddin.ansari@gmail.com  
 **📍 Location:** India (Open to Remote Work)  
-**🌐 Portfolio:** [syedsaqueeb.netlify.app](https://syedsaqueeb.netlify.app)
+
 
 </div>
 
